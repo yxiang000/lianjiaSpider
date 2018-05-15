@@ -166,8 +166,8 @@ headers = {
 
 #118.24.84.184
 #数据库配置文件
-MYSQL_HOSTS = '118.24.84.184'
-MYSQL_USER = 'root'
-MYSQL_PASSWORD = 'Huawei12#$'
+MYSQL_HOSTS = 'yourhost'
+MYSQL_USER = 'username'
+MYSQL_PASSWORD = 'password'
 MYSQL_PORT = 3306
 MYSQL_DB = 'db_lianjia'

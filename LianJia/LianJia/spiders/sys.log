@@ -1,0 +1,2 @@
+2018-05-14 17:11:26 [scrapy.core.scraper] ERROR: Error downloading <GET https://cd.lianjia.com/zufang/CD0004126500.html>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2018-05-14 17:11:26 [scrapy.core.scraper] ERROR: Error downloading <GET https://cd.lianjia.com/zufang/CD0004126117.html>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
